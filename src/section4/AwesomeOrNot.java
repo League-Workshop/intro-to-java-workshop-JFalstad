@@ -21,7 +21,8 @@ System.out.println(randomNumber);
 	// 5. If the random number is 0
 if (randomNumber == 0 ) {
 	// -- tell the user whatever they entered is awesome!
-}	JOptionPane.showMessageDialog(null, awesome + " is awesome!");
+	JOptionPane.showMessageDialog(null, awesome + " is awesome!");
+}
 	// 6. If the random number is 1
 if (randomNumber == 1) {
 	// -- tell the user whatever they entered is ok.
